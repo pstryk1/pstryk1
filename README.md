@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @pstryk1
-- 👀 I’m interested in building and flying fpv drones.
+- 👋 Hi, I’m Patryk
+- 👀 I’m interested in building and flying fpv drones, writing mobile apps.
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on QuoCalCus app
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Map Miner app
+
 
 <!---
 pstryk1/pstryk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
