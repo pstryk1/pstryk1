@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patryk
-- 👀 I’m interested in building and flying fpv drones, writing mobile apps.
+- 👀 I’m interested in building and flying fpv drones, makeing mobile apps.
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Map Miner app
 
